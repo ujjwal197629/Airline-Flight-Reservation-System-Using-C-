@@ -266,7 +266,7 @@ void welcome()
 {
 	std::cout << "\t\t|------------------------------------------------------------------|" << "\n";
 	std::cout << "\t\t|                                                                  |" << "\n"; 
-	std::cout << "\t\t|     WELCOME TO YRNCOLLO AIRLINE FLIGHT RESERVATION SYSTEM        |" << "\n";
+	std::cout << "\t\t|     WELCOME TO UJJWAL AIRLINE FLIGHT RESERVATION SYSTEM        |" << "\n";
 	std::cout << "\t\t|                                                                  |" << "\n"; 
 	std::cout << "\t\t|------------------------------------------------------------------|" << "\n";
 	std::cout << "\t\t|          Choose your option:                                     |" << "\n"; 
